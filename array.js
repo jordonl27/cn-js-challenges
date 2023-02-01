@@ -1,13 +1,13 @@
-/*let Favouritefilms = [
+let Favouritefilms = [
  "Godfather",
  "goonies",
  "goodFellas",
 "got",
 "short circuit"
 ]
-console.log(Favouritefilms);*/
+console.log(Favouritefilms);
 
-/*let songs = [
+let songs = [
     "mama",
     "505",
     "browneyedgirl",
@@ -15,5 +15,5 @@ console.log(Favouritefilms);*/
      "themessage"]
 {
  console. log(songs.pop());
-}*/
+}
  

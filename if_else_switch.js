@@ -1,4 +1,4 @@
- /*let food = "sprouts"
+ let food = "sprouts"
 
 switch (food) {
     case "ice cream":
@@ -38,13 +38,13 @@ switch (pizzaTopping) {
             } else {
                 console.log ("oh, go on then why not")
                 
-            }*/
+            }
 
          
 
  
 
- /*let music = "classical"
+ let music = "classical"
 
  if (music = "classical") {
 console.log("oh, how relaxing")
@@ -56,6 +56,6 @@ else if (music = "Disco") {
 else if (music = "dance") 
    
 console.log("where's the party at?");
-else {"turn it down"}*/
+else {"turn it down"}
 
 
